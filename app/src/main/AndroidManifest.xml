@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RedActivity"></activity>
+        <activity android:name=".activity.permission.PermissionActivity"></activity>
+        <activity android:name=".activity.RedActivity" />
         <activity
-            android:name=".ImmersionActivity"
+            android:name=".activity.ImmersionActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".MainActivity">
             <intent-filter>

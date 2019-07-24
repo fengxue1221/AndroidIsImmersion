@@ -6,6 +6,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.myapplication.activity.ImmersionActivity;
+import com.example.myapplication.activity.RedActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

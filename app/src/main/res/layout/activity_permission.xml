@@ -4,14 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.RedActivity">
+    tools:context=".activity.permission.PermissionActivity">
 
-    <Button
-        android:id="@+id/back"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="返回"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
